@@ -221,7 +221,7 @@ The project includes an intelligent bot with ChatGPT integration:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ft_irc.git
+git clone https://github.com/Codam-Max-Valk/irc.git
 cd ft_irc
 ```
 
@@ -308,21 +308,6 @@ irc/
 ├── 📁 tester/                # Testing framework
 └── 📄 Makefile               # Build configuration
 ```
-
-## 👥 Contributors
-
-This project was developed as a collaborative effort:
-
-- **[Your Name]** - *Lead developer for commands and exception handling*
-  - Implemented all 17 IRC commands with full RFC compliance
-  - Designed and built the comprehensive exception handling system  
-  - Created the IRC response code framework
-  - Developed command parsing and validation logic
-
-- **[Teammate Names]** - *Core server architecture and networking*
-  - Server initialization and networking layer
-  - Multi-client connection handling
-  - Channel and user management systems
 
 ---
 
